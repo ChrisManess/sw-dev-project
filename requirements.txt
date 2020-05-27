@@ -1,2 +1,5 @@
 requests
 matplotlib
+notebook
+flair
+ipywidgets
